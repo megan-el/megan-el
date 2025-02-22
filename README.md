@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Hi! My name is **Megan Lynch**. I'm a student from the Queensland University of Technology studying a degree in Computer Science. 🏫
 
-I'm very interested in ux/ui design and full-stack web development👩‍💻! I'm also quite skilled at technical writing📝, and am excited to explore mobile development in the near future📱. Currently learning Flask, React.js, Figma, SCSS, and the importance of accessibility.
+I'm very interested in ux/ui design and front-end web development👩‍💻! I'm also quite skilled at technical writing📝, and am excited to explore mobile development in the near future📱. Currently learning Flask, React.js, Figma, SCSS, and the importance of accessibility.
 
 I'm passionate about creating technologies that support community goals and make a difference!
 
